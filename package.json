@@ -1,0 +1,14 @@
+{
+  "name": "primera_entrega_jenny",
+  "version": "1.0.0",
+  "description": "Primera entrega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenny Pedroza jpedrozapedraza@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
