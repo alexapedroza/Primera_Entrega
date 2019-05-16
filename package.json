@@ -1,13 +1,21 @@
 {
-  "name": "primera_entrega_jenny",
+  "name": "primera_entrega",
   "version": "1.0.0",
   "description": "Primera entrega",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jenny Pedroza jpedrozapedraza@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexapedroza/Primera_Entrega.git"
+  },
+  "author": "Jenny Pedroza",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexapedroza/Primera_Entrega/issues"
+  },
+  "homepage": "https://github.com/alexapedroza/Primera_Entrega#readme",
   "dependencies": {
     "yargs": "^13.2.4"
   }
