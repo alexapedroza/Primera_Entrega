@@ -1,0 +1,3 @@
+El estudiante [Jenny Pedroza] con cedula de ciudadania [1234]
+se ha matriculado en el curso [Programacion]
+el cual tiene una duracion de [60] horas y un costo de [250000] pesos.

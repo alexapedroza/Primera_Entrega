@@ -23,8 +23,22 @@ let cursos = [{
     valor: 150000
 }];
 
-module.exports = {
-    cursos
-};
+let opciones = {
+    id:{
+        demand: true,
+        alias: 'i'
+    },
+    nombre:{
+        demand: true,
+        alias: 'n'
+    },
+    cedula:{
+        demand: true,
+        alias: 'c'
+    }
+}
 
-//[]
+module.exports = {
+    cursos,
+    opciones
+};
