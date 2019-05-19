@@ -12,8 +12,6 @@ let crearArchivo = (curso, estudiante) => {
     )
 }
 
-//crearArchivo(curso, estudiante);
-
 module.exports = {
     crearArchivo
 };
