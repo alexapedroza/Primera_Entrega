@@ -2,7 +2,7 @@
 
 Proceso de instalaciòn:
 * Ejecutar el comando git clone https://github.com/alexapedroza/Primera_Entrega.git
-* Ejecutar el comando npm install
+* Ingresar a la carpeta Primera_Entrega y Ejecutar el comando npm install
 
 
 Proceso de ejecucion:
